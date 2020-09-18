@@ -1,0 +1,14 @@
+.context {
+    width: 850px;
+    margin: 100px auto;
+
+    /*height: ;*/
+}
+
+
+canvas {
+    width: 800px;
+    height: 500px;
+    border: 1px solid lightskyblue;
+
+}
